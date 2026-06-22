@@ -44,9 +44,9 @@
 | [Fitness Synergy](https://github.com/codrei/Fitness-Synergy) | Gym management system — normalized DB + system design | React · PHP · MySQL |
 
 ### 📊 GitHub Stats
-<p>
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=codrei&show_icons=true&hide_border=true&theme=tokyonight" alt="Marco's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrei&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codrei&hide_border=true&theme=tokyonight)](https://github.com/codrei)
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrei&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=tokyonight" alt="Top languages" />
+  <br/>
+  <a href="https://github.com/codrei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codrei&hide_border=true&theme=tokyonight" alt="GitHub Streak" /></a>
+</div>
