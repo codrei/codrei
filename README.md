@@ -50,5 +50,3 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codrei&hide_border=true&theme=tokyonight)](https://github.com/codrei)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=codrei&theme=tokyonight&no-frame=true&margin-w=8&column=7)
