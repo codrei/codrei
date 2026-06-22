@@ -1,16 +1,21 @@
-# Hi, I'm Marco Andrei R. Belen 👋
+<h1 align="center">Hi, I'm Marco Andrei R. Belen 👋</h1>
 
-🎓 Computer Science (Machine Learning) student at **National University – Lipa** · Consistent Dean's Lister  
-💻 **Full-Stack Web Developer** & aspiring **AI/ML Engineer**  
-🌏 Lipa, Batangas, Philippines · open to freelance web projects
+<p align="center">
+  🎓 Computer Science (Machine Learning) student at <b>National University – Lipa</b> · Consistent Dean's Lister<br/>
+  💻 <b>Full-Stack Web Developer</b> &amp; aspiring <b>AI/ML Engineer</b><br/>
+  🌏 Lipa, Batangas, Philippines · open to freelance web projects
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=codrei&label=Profile%20views&color=22d3ee&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codrei&label=Profile%20views&color=22d3ee&style=flat" alt="Profile views" />
+</p>
 
-### 🔗 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-marcobelen.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://marcobelen.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-andrei-belen-80a3b8332/)
-[![Credly](https://img.shields.io/badge/Credly-15%2B%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/marco-andrei-belen/badges)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoandreibelen43@gmail.com)
+<p align="center">
+  <a href="https://marcobelen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-marcobelen.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/marco-andrei-belen-80a3b8332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/marco-andrei-belen/badges"><img src="https://img.shields.io/badge/Credly-15%2B%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="mailto:marcoandreibelen43@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -20,7 +25,7 @@
 - Dig into the **math & logic** behind algorithms — not just calling libraries
 
 ### 🛠️ Tech & Tools
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
