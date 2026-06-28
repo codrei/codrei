@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Computer Science (Machine Learning) student at <b>National University – Lipa</b> · Consistent Dean's Lister<br/>
   💻 <b>Full-Stack Web Developer</b> &amp; aspiring <b>AI/ML Engineer</b><br/>
-  🌏 Lipa, Batangas, Philippines · open to freelance web projects<br/>
+  🌏 Lipa City, Batangas, Philippines · open to freelance web projects<br/>
   ⚡ Currently building websites for local businesses &amp; deepening my ML foundations
 </p>
 
