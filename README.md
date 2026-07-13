@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://marcobelen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-marcobelen.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/marco-andrei-belen-80a3b8332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marco-andrei-belen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.credly.com/users/marco-andrei-belen/badges"><img src="https://img.shields.io/badge/Credly-15%2B%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="mailto:marcoandreibelen43@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -48,6 +48,7 @@
 | [Telecom Churn Prediction & API](https://github.com/codrei/telecom-churn-api) | ML pipeline catching **80%** of at-risk customers (0.63 F1), served via FastAPI | Python · XGBoost · FastAPI |
 | [PaperMind](https://github.com/codrei/PaperMind) · [live](https://papermind-sand.vercel.app) | AI research-paper assistant — summaries, flashcards & RAG chat | TypeScript · Gemini · RAG · Firebase |
 | [Fitness Synergy](https://github.com/codrei/Fitness-Synergy) | Gym management system — normalized DB + system design | React · PHP · MySQL |
+| [MaxiBrew Cafe](https://maxibrew-cafe.vercel.app) | Café business website for a real client — **live in production** | HTML · CSS · Vercel |
 
 ### 📊 GitHub Stats
 <div align="center">
