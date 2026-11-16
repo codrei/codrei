@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marco Andrei R. Belen 👋</h1>
+<h1 align="center">Marco Andrei R. Belen</h1>
 
 <p align="center">
   🎓 Computer Science (Machine Learning) student at <b>National University – Lipa</b> · Consistent Dean's Lister<br/>
