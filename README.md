@@ -38,3 +38,12 @@ More: [ML notebooks](https://github.com/codrei/ml-notebooks) · [SyntaxLens](htt
 ### Certifications
 
 Microsoft Certified: Azure AI Fundamentals · Google AI Professional Certificate · 19 Google Cloud badges, including Use Machine Learning APIs on Google Cloud (advanced) and Develop GenAI Apps with Gemini and Streamlit. Full list on my [portfolio](https://marcobelen.vercel.app/#certifications).
+
+### GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codrei&show_icons=true&hide_border=true&theme=tokyonight" alt="Marco's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrei&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=tokyonight" alt="Top languages" />
+  <br/>
+  <a href="https://github.com/codrei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codrei&hide_border=true&theme=tokyonight" alt="GitHub streak" /></a>
+</div>
