@@ -1,59 +1,40 @@
 <h1 align="center">Marco Andrei R. Belen</h1>
 
 <p align="center">
-  Computer Science (Machine Learning) student at <b>National University – Lipa</b> · Consistent Dean's Lister<br/>
-  <b>Full-Stack Web Developer</b> &amp; aspiring <b>AI/ML Engineer</b><br/>
-  Lipa City, Batangas, Philippines · open to freelance web projects<br/>
-  Currently building websites for local businesses &amp; deepening my ML foundations
+  Third-year Computer Science student at <b>National University – Lipa</b>, specializing in machine learning · Dean's Lister<br/>
+  I build ML models and the software around them, and websites for local businesses.<br/>
+  Lipa City, Batangas, Philippines · open to remote and hybrid internships and freelance projects
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codrei&label=Profile%20views&color=22d3ee&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://marcobelen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-marcobelen.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://marcobelen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-marcobelen.vercel.app-9c4a21?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/marco-andrei-belen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.credly.com/users/marco-andrei-belen/badges"><img src="https://img.shields.io/badge/Credly-15%2B%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="https://www.credly.com/users/marco-andrei-belen/badges"><img src="https://img.shields.io/badge/Credly-35%20badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="mailto:marcoandreibelen43@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### What I do
-- Build **end-to-end ML pipelines** and serve them as real APIs
-- Develop **full-stack web apps & systems** for real-world use
-- Dig into the **math & logic** behind algorithms — not just calling libraries
+### Featured projects
 
-### Tech & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP" title="PHP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
-</p>
-
-### Featured Projects
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [Telecom Churn Prediction & API](https://github.com/codrei/telecom-churn-api) | ML pipeline catching **80%** of at-risk customers (0.63 F1), served via FastAPI | Python · XGBoost · FastAPI |
-| [PaperMind](https://github.com/codrei/PaperMind) · [live](https://papermind-sand.vercel.app) | AI research-paper assistant — summaries, flashcards & RAG chat | TypeScript · Gemini · RAG · Firebase |
-| [Fitness Synergy](https://github.com/codrei/Fitness-Synergy) | Gym management system — normalized DB + system design | React · PHP · MySQL |
-| [MaxiBrew Cafe](https://maxibrew-cafe.vercel.app) | Café business website for a real client — **live in production** | HTML · CSS · Vercel |
+| [Telecom Churn API](https://github.com/codrei/telecom-churn-api) | XGBoost model tuned for recall: catches **80%** of churning customers (0.63 F1, 0.847 ROC-AUC), served behind a FastAPI `/predict` endpoint | Python · XGBoost · FastAPI |
+| [PaperMind](https://github.com/codrei/PaperMind) · [live](https://papermind-sand.vercel.app) | Turns research papers into summaries, flashcards, quizzes and a Q&A chat grounded in the paper (RAG); the Gemini key stays server-side | TypeScript · Gemini · Firebase |
+| [AlgoScope](https://github.com/codrei/AlgoScope) · [live](https://codrei.github.io/AlgoScope/) | Teaching tool for my DSA professor: runs C, C++, Java, C# and Python one line at a time and animates arrays, trees and DP tables; works offline | React · TypeScript · Tree-sitter |
+| [Agent Bobs](https://github.com/alfonsoVsebolino/agent_bobs) | IBM Bob 2.0 Hackathon (team of 4). I built the server that stops AI coding agents from breaking each other's work | Python · MCP · WebSockets |
+| [RMG Dental Clinic](https://github.com/codrei/RMG-Dental-Clinic) · [preview](https://rmg-dental-clinic.vercel.app) | Booking site with real-time slot locking, plus a [records manager](https://github.com/codrei/RMG-Clinic-Manager) with a self-updating dental chart; ready to launch | React · TypeScript · Firebase |
+| [Fitness Synergy](https://github.com/codrei/Fitness-Synergy) · [demo](https://fitness-synergy-amber.vercel.app) | Gym management system: memberships, attendance, installment payments, reports and an audit log | React · PHP · MySQL |
+| [Café Raya](https://github.com/codrei/CAFE-RAYA) · [site](https://caferaya.vercel.app) | Website for a café in Cuenca, built from their own menu boards and logo | Astro · Tailwind CSS |
 
-### GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codrei&show_icons=true&hide_border=true&theme=tokyonight" alt="Marco's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrei&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=tokyonight" alt="Top languages" />
-  <br/>
-  <a href="https://github.com/codrei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codrei&hide_border=true&theme=tokyonight" alt="GitHub Streak" /></a>
-</div>
+More: [ML notebooks](https://github.com/codrei/ml-notebooks) · [SyntaxLens](https://github.com/codrei/Multi-Input-Syntactical-Analyzer-Application-Project-in-Programming-Language) · [WSL + GPU setup guide](https://github.com/codrei/wsl-ml-gpu-setup) · [MaxiBrew Cafe concept site](https://maxibrew-cafe.vercel.app)
+
+### Tools I use
+
+**ML & data:** Python, pandas, NumPy, scikit-learn, XGBoost, BigQuery ML, FastAPI<br/>
+**Web:** TypeScript, React, Astro, Tailwind CSS, Firebase, PHP, MySQL, offline PWAs<br/>
+**Cloud & tooling:** Google Cloud (Vertex AI, Gemini API), Vercel, Git, Vitest, Playwright
+
+### Certifications
+
+Microsoft Certified: Azure AI Fundamentals · Google AI Professional Certificate · 19 Google Cloud badges, including Use Machine Learning APIs on Google Cloud (advanced) and Develop GenAI Apps with Gemini and Streamlit. Full list on my [portfolio](https://marcobelen.vercel.app/#certifications).
